@@ -1,2 +1,2 @@
 # GaG-SnacK
-Social Media project
+Social Media project.
